@@ -90,12 +90,12 @@ nav a:hover{
     letter-spacing:2px;
     opacity:0.75;
 }
-*/
+
 
 .btn{
     display:inline-block;
-/* margin-top:200px;
-    margin-left:320px; */
+    margin-top:200px;
+    margin-left:320px; 
     padding:14px 38px;
     background-color:#3c3007;
 
@@ -112,7 +112,8 @@ nav a:hover{
     background:#c9a227;
     color:#000;
 }
-
+    
+*/
 
 .editorial{
     padding:120px 10%;
